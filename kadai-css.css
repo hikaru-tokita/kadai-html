@@ -12,13 +12,11 @@ header {
 }
 
 #main {
-    display: inline-block;
     width: 700px;
     background-color: #ccffcc;
 }
 
 #menu {
-    display: inline-block;
     width: 300px;
     background-color: #ccccff;
 }
